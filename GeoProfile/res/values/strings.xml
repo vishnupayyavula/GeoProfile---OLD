@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GeoProfile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="exit">Exit</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="title_activity_profiles">ProfilesActivity</string>
+    <string name="addProfile">Add Profile</string>
+    <string name="deleteProfile">Delete Profile</string>
+    <string name="info">Make sure that GPS connection is active.</string>
+
+</resources>
